@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/out/production/Estudando_JDK/.gitignore
+/out/production/Estudando_JDK/.idea/.gitignore
+/out/production/Estudando_JDK/.idea/Estudando_JDK.iml
+/out/production/Estudando_JDK/.idea/misc.xml
+/out/production/Estudando_JDK/.idea/modules.xml
+/out/production/Estudando_JDK/.idea/vcs.xml
