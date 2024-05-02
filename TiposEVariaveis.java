@@ -17,8 +17,8 @@ public class TiposEVariaveis {
 
         String meuNome = "Caio";
         char darNota = 'B';
-        boolean alunoMedio = true;
+        boolean alunoMid = true;
 
-        System.out.println(meuNome + " - " + "Aluno Nota: " + darNota + " - " + alunoMedio);
+        System.out.println(meuNome + " - " + "Aluno Nota: " + darNota + " - " + alunoMid);
     }
 }
