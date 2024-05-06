@@ -2,7 +2,6 @@ import java.util.Locale;
 import java.util.Scanner;
 public class TerminalArgs {
     public static void main (String [] args) {
-        //criando o objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.println("Para começar, por favor, digite seu primeiro nome: ");
